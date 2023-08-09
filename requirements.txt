@@ -5,3 +5,4 @@ circlify
 matplotlib
 plotly
 ipynb
+sklearn
