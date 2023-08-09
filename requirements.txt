@@ -1,0 +1,7 @@
+streamlit
+pulp
+pandas
+circlify
+matplotlib
+plotly
+ipynb
