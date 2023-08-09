@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
+import sklearn
 import plotly
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
