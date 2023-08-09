@@ -1,9 +1,8 @@
 streamlit
+scikit-learn
 pulp
 pandas
 circlify
 matplotlib
 plotly
 ipynb
-sklearn
-scikit-learn
