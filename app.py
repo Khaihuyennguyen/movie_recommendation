@@ -4,8 +4,8 @@ import streamlit as st
 import plotly
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-from ipynb.fs.full.CollaborativeFiltering import movie_recommender_run
-
+# from ipynb.fs.full.CollaborativeFiltering import movie_recommender_run
+from recommend import movie_recommender_run
 #Set page configuration
 st.set_page_config(layout = "wide", page_title = "Movie Recommendation App", page_icon = ":Cinema:")
 
